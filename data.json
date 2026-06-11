@@ -1,0 +1,93 @@
+{
+  "title": "La Subasta de un Alma — El Drama",
+  "days": [
+    {
+      "id": "isabela-2026-06-16",
+      "label": "Isabela",
+      "date": "2026-06-16",
+      "color": "#E11D26",
+      "stops": [
+        {
+          "id": "three-brothers-guest-house",
+          "name": "Three Brothers Guest House",
+          "time": "Hospedaje",
+          "lat": 18.4726,
+          "lng": -67.0156,
+          "notes": "Llegada y hospedaje. Three Brothers Restaurant, Isabela · 00662."
+        }
+      ]
+    },
+    {
+      "id": "mayaguez-2026-06-17",
+      "label": "Mayagüez",
+      "date": "2026-06-17",
+      "color": "#F2A900",
+      "stops": [
+        {
+          "id": "centro-detencion-mayaguez",
+          "name": "Centro de Detención de Mayagüez",
+          "time": "",
+          "lat": 18.2011,
+          "lng": -67.1257,
+          "notes": "Organizado por el Pastor Andy Gonzalez."
+        }
+      ]
+    },
+    {
+      "id": "guayama-2026-06-18",
+      "label": "Guayama",
+      "date": "2026-06-18",
+      "color": "#1A1A1A",
+      "stops": [
+        {
+          "id": "parque-ecuestre-guayama",
+          "name": "Parque Ecuestre de Guayama",
+          "time": "7:00 PM",
+          "lat": 17.9685,
+          "lng": -66.1187,
+          "notes": "Invita: IDDPMI Puente de Jobos, Guayama. Plus Code XV9J+CG3 · 00784."
+        },
+        {
+          "id": "airbnb-patillas-hospedaje",
+          "name": "Airbnb — Patillas (hospedaje)",
+          "time": "Hospedaje",
+          "lat": 17.992,
+          "lng": -66.0327,
+          "notes": "Calle 9, Q13, Patillas · 00723. Pernoctar después del evento en Guayama."
+        }
+      ]
+    },
+    {
+      "id": "ponce-2026-06-19",
+      "label": "Ponce",
+      "date": "2026-06-19",
+      "color": "#B3121A",
+      "stops": [
+        {
+          "id": "residencial-lopez-nussa",
+          "name": "Residencial López Nussa",
+          "time": "7:00 PM",
+          "lat": 17.9973,
+          "lng": -66.6091,
+          "notes": "Pastora Liliam Santos, invita IUJ, Ponce. Carr Puerto Rico 2, Ponce · 00717."
+        }
+      ]
+    },
+    {
+      "id": "naguabo-2026-06-20",
+      "label": "Naguabo",
+      "date": "2026-06-20",
+      "color": "#C98A00",
+      "stops": [
+        {
+          "id": "casa-restauracion-pan-de-vida",
+          "name": "Casa de Restauración Pan de Vida",
+          "time": "7:00 PM",
+          "lat": 18.216,
+          "lng": -65.827,
+          "notes": "Pastora Rosa Gomez Santana. Peña Pobre, Naguabo · Plus Code 658F+JVV · 00718."
+        }
+      ]
+    }
+  ]
+}
