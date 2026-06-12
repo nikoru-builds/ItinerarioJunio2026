@@ -2,13 +2,14 @@
   "title": "La Subasta de un Alma — El Drama",
   "days": [
     {
-      "id": "isabela-2026-06-16",
+      "id": "d1",
       "label": "Isabela",
       "date": "2026-06-16",
       "color": "#E11D26",
+      "info": ["Lleven ropa para hospedarse", "Lleven polo ministerial"],
       "stops": [
         {
-          "id": "three-brothers-guest-house",
+          "id": "d1s1",
           "name": "Three Brothers Guest House",
           "time": "Hospedaje",
           "lat": 18.4726,
@@ -18,29 +19,31 @@
       ]
     },
     {
-      "id": "mayaguez-2026-06-17",
+      "id": "d2",
       "label": "Mayagüez",
       "date": "2026-06-17",
       "color": "#F2A900",
+      "info": ["Vestimenta: Polo Ministerial", "Almuerzo luego del compromiso", "Regreso a nuestros hogares"],
       "stops": [
         {
-          "id": "centro-detencion-mayaguez",
+          "id": "d2s1",
           "name": "Centro de Detención de Mayagüez",
-          "time": "",
+          "time": "9:30 AM",
           "lat": 18.2011,
           "lng": -67.1257,
-          "notes": "Organizado por el Pastor Andy Gonzalez."
+          "notes": "Organizado por el Pastor Andy Gonzalez. Registro a la llegada."
         }
       ]
     },
     {
-      "id": "guayama-2026-06-18",
+      "id": "d3",
       "label": "Guayama",
       "date": "2026-06-18",
       "color": "#1A1A1A",
+      "info": ["Lleven muda de ropa para hospedaje", "T-shirt para ponernos para la actividad de Ponce"],
       "stops": [
         {
-          "id": "parque-ecuestre-guayama",
+          "id": "d3s1",
           "name": "Parque Ecuestre de Guayama",
           "time": "7:00 PM",
           "lat": 17.9685,
@@ -48,23 +51,24 @@
           "notes": "Invita: IDDPMI Puente de Jobos, Guayama. Plus Code XV9J+CG3 · 00784."
         },
         {
-          "id": "airbnb-patillas-hospedaje",
+          "id": "d3s2",
           "name": "Airbnb — Patillas (hospedaje)",
           "time": "Hospedaje",
-          "lat": 17.992,
+          "lat": 17.9920,
           "lng": -66.0327,
           "notes": "Calle 9, Q13, Patillas · 00723. Pernoctar después del evento en Guayama."
         }
       ]
     },
     {
-      "id": "ponce-2026-06-19",
+      "id": "d4",
       "label": "Ponce",
       "date": "2026-06-19",
       "color": "#B3121A",
+      "info": ["T-shirt para el evento", "Regreso a casa"],
       "stops": [
         {
-          "id": "residencial-lopez-nussa",
+          "id": "d4s1",
           "name": "Residencial López Nussa",
           "time": "7:00 PM",
           "lat": 17.9973,
@@ -74,17 +78,17 @@
       ]
     },
     {
-      "id": "naguabo-2026-06-20",
+      "id": "d5",
       "label": "Naguabo",
       "date": "2026-06-20",
       "color": "#C98A00",
       "stops": [
         {
-          "id": "casa-restauracion-pan-de-vida",
+          "id": "d5s1",
           "name": "Casa de Restauración Pan de Vida",
           "time": "7:00 PM",
-          "lat": 18.216,
-          "lng": -65.827,
+          "lat": 18.2160,
+          "lng": -65.8270,
           "notes": "Pastora Rosa Gomez Santana. Peña Pobre, Naguabo · Plus Code 658F+JVV · 00718."
         }
       ]
